@@ -1,0 +1,23 @@
+/* PaymentPage.css */
+.payment-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.payment-card {
+  width: 400px;
+  background-color: #fff;
+  border-radius: 12px;
+}
+
+.qr-section {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.qr-img {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+}

@@ -1,0 +1,92 @@
+/* .carousel-wrapper {
+  position: relative;
+}
+
+.top-banner-bar {
+  background-color: #7d29f0;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+  font-size: 14px;
+}
+
+.carousel-img {
+  max-height: 550px;
+  object-fit: cover;
+}
+
+.carousel-caption-custom {
+  text-align: left;
+  bottom: 100px;
+  left: 80px;
+}
+
+.carousel-caption-custom h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  color: white;
+  line-height: 1.2;
+}
+
+.shop-btn {
+  background-color: #7d29f0;
+  border: none;
+  font-weight: 500;
+  padding: 10px 25px;
+  font-size: 16px;
+  margin-top: 15px;
+}
+
+.shop-btn:hover {
+  background-color: #6922c2;
+} */
+
+
+.carousel-wrapper {
+  position: relative;
+}
+
+.top-banner-bar {
+  background-color: #7d29f0; /* purple */
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding: 12px 0;
+  font-size: 15px;
+  letter-spacing: 0.5px;
+}
+
+.carousel-img {
+  max-height: 520px;
+  object-fit: cover;
+}
+
+.carousel-caption-custom {
+  text-align: left;
+  bottom: 140px;
+  left: 80px;
+  right: auto;
+}
+
+.carousel-caption-custom h1 {
+  font-size: 3.3rem;
+  font-weight: 800;
+  color: white;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+
+.shop-btn {
+  background-color: #7d29f0;
+  border: none;
+  font-weight: 500;
+  padding: 12px 30px;
+  font-size: 16px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.shop-btn:hover {
+  background-color: #5e1db9;
+}
